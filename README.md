@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Software Engineer from Egypt.
+I am a Fresh Graduate Software Engineer from Egypt.
 - :telescope: I’m currently learning MEAN stack.
 
 - :zap: In my free time, I solve problems on LeetCode, read tech articles and gaming 🎮.
