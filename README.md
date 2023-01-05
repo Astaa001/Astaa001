@@ -1,5 +1,5 @@
 <h1 align="center">
-  hey there I'm Mahmoud Alaa 
+  Hey there I'm Mahmoud Alaa 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
 </h1>
 <div id="header" align="center">
@@ -15,7 +15,7 @@
 
 ### :man_technologist: About Me :
 I am a Fresh Graduate Software Engineer from Egypt.
-- :telescope: I’m currently learning MEAN stack.
+- :telescope: I’m currently learning Backend Development using Nodejs.
 
 - :zap: In my free time, I solve problems on LeetCode, read tech articles and gaming 🎮.
 
