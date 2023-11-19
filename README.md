@@ -15,11 +15,11 @@
 
 ### :man_technologist: About Me :
 I am a Fresh Graduate Software Engineer from Egypt.
-- :telescope: I’m currently learning Backend Development using Nodejs.
+- :telescope: I’m currently learning Backend Development.
 
-- :zap: In my free time, I solve problems on LeetCode, read tech articles and gaming 🎮.
+- :zap: In my free time, I solve problems on LeetCode, read tech articles, and gaming 🎮.
 
-- :mailbox:How to reach me: [malaa4085@gmail.com].
+- :mailbox: How to reach me: [malaa4085@gmail.com].
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
