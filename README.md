@@ -17,7 +17,7 @@
 I am a Fresh Graduate Software Engineer from Egypt.
 - :zap: In my free time, I solve problems on LeetCode, read tech articles, and gaming 🎮.
 
-- :mailbox: How to reach me: [malaa4085@gmail.com].
+- :mailbox: How to reach me: [mahmoudalaamorsy@gmail.com].
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
